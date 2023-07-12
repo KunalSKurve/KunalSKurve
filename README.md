@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KunalSKurve
 - 👀 I’m interested in different Technologies
-- 🌱 I’m currently learning Web Technology, DBMS and Computer Networks 
-- 💞️ I’m looking to collaborate on Data Science, AIML
+- 🌱 I’m currently exploring Web Technology 
+- 💞️ I’m looking to work in Full Stack Development
 - 📫 How to reach me 7030884560
 
 <!---
