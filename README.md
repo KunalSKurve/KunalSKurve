@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KunalSKurve
+- 👋 Hi, I’m Kunal Satish Kurve
 - 👀 I’m interested in developing technologies
 - 🌱 I’m currently exploring Artificial Intelligence 
 - 💞️ I’m looking to work in Natural Language Processing and Computer Vision
